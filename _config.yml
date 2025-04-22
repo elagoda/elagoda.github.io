@@ -101,8 +101,8 @@ author:
 description: >
   In this site you can find information about my interests and activities.
 
-#remote_theme: "jekyll/minima@ded17a1"   #older#"jekyll/minima@82691a6" 
-theme: minima
+remote_theme: "jekyll/minima@ded17a1"   #older#"jekyll/minima@82691a6" 
+#theme: minima
 
 #plugins:
 #  - jekyll-feed
