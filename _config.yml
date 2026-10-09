@@ -96,13 +96,16 @@ title: Evgeniya Lagoda
 
 author:
   name: Evgeniya Lagoda
-  email: firstname.lastname(at)fu-berlin.de
+  email: firstname.lastname(at)nist.gov
 
 description: >
   In this site you can find information about my interests and activities.
 
+
+##comment out the following for local runs; uncomment for publishing
 remote_theme: "jekyll/minima@ded17a1"   #older#"jekyll/minima@82691a6" 
-#theme: minima
+##uncomment the following for local runs; comment out for publishing
+# theme: minima
 
 #plugins:
 #  - jekyll-feed
